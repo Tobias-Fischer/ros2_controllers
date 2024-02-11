@@ -16,6 +16,7 @@
 #define STEERING_CONTROLLERS_LIBRARY__STEERING_CONTROLLERS_LIBRARY_HPP_
 
 #include <chrono>
+#define _USE_MATH_DEFINES
 #include <cmath>
 #include <memory>
 #include <queue>
